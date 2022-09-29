@@ -1,2 +1,2 @@
 # marcelaR
-aula coding
+Aulas coding: HTML, CSS e JS
